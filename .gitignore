@@ -1,0 +1,4 @@
+.venv/
+tools/
+gh_latest.json
+.requirements.sha256
