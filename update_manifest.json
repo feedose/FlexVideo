@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T10:05:45Z",
+  "generated_at": "2026-07-17T10:57:45Z",
   "platforms": {
     "macos-arm64": {
       "mandatory": false,
@@ -10,6 +10,17 @@
       "signature": "9AA+Flu24Rs0CPvkLf0JOpMyjjpOO1gs3PxfBlZS56uvWa1MzF3LdgbzHjJwdqaY5vdd4cN11MDfCo3rwmy4Dw==",
       "size": 494831465,
       "url": "https://github.com/feedose/FlexVideo/releases/download/v1.2.2/update_macOS.zip",
+      "version": "1.2.2"
+    },
+    "windows-x86_64": {
+      "mandatory": false,
+      "notes": "FLEX VIDEO v1.2.2",
+      "published_at": "2026-07-17T10:05:41Z",
+      "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.2.2",
+      "sha256": "5ff8e0016c029febd42adce46bd7f9a4ef7cae3e56b13bdb576c8eb416713646",
+      "signature": "KGrj46YU3ZrRiY3Erjckdi7b+A6HqK7rnt1H/b8gC25SoGJJcOnXxO8AQ5VrEmSgCX2kb8PIWHYyRM107ku2AA==",
+      "size": 437200330,
+      "url": "https://github.com/feedose/FlexVideo/releases/download/v1.2.2/update_Windows.zip",
       "version": "1.2.2"
     }
   },
