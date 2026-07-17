@@ -22,5 +22,5 @@ FlexVideo подходит для длинных видео YouTube, Rutube, Tik
 
 После покупки вы получаете установщик, лицензионный ключ и обновления программы.
 Тестовый доступ на 1 день.
-Получить программу: @flexer_soft_bot
-Наш чат: @bablo_youtube
+Получить программу: https://t.me/flexer_soft_bot
+Наш чат: https://t.me/bablo_youtube
