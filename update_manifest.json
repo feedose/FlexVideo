@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T17:56:47Z",
+  "generated_at": "2026-08-10T07:05:14Z",
   "platforms": {
     "macos-arm64": {
       "mandatory": false,
@@ -14,14 +14,14 @@
     },
     "windows-x86_64": {
       "mandatory": false,
-      "notes": "FLEX VIDEO v1.4.5",
-      "published_at": "2026-08-09T17:47:10Z",
-      "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.4.5",
-      "sha256": "876adc89cae7063e4a8134c7f3884395d59aa50688ef6611ac11ccc20054225f",
-      "signature": "y7RtF2hBsbcvFJx1ssu540DqCeQLPThyeFTr/g/Boo3yH6KwENIXqo/d5k2zjmPGToHmCkci6vOv69oUs3CxDA==",
-      "size": 724460253,
-      "url": "https://github.com/feedose/FlexVideo/releases/download/v1.4.5/update_Windows.zip",
-      "version": "1.4.5"
+      "notes": "FLEX VIDEO v1.4.6",
+      "published_at": "2026-08-10T07:03:28Z",
+      "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.4.6",
+      "sha256": "67d328e6dda21d3b6094fcb0ed7202ad00ab62d37022c81591d1cd403c5f3b8f",
+      "signature": "OFTiEmofBm3pMvdZ1SUClVY4/7JgJNkSsHiDHAv7zZjs9HmOPCI2XaY5X/Rcj8lXypdhXKbgte+bzNa4Dy+OBw==",
+      "size": 724462732,
+      "url": "https://github.com/feedose/FlexVideo/releases/download/v1.4.6/update_Windows.zip",
+      "version": "1.4.6"
     }
   },
   "schema_version": 1
