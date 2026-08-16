@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-14T08:26:28Z",
+  "generated_at": "2026-08-16T00:37:12Z",
   "platforms": {
     "macos-arm64": {
       "mandatory": false,
-      "notes": "FLEX VIDEO v1.4.8",
-      "published_at": "2026-08-12T13:51:15Z",
-      "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.4.8",
-      "sha256": "3ce0c495fac4bb363178aea2e35e15a1c53cb11686e6f501359256bb53e678a6",
-      "signature": "iz++nFhYVlNWRT2h9Wyopxv7ChDzyrdytqPDele2HeSikuT8GJuHxxRiSFCs6Z6CF7pedTTk7woYmJHbvVvvDQ==",
-      "size": 639691764,
-      "url": "https://github.com/feedose/FlexVideo/releases/download/v1.4.8/update_macOS.zip",
-      "version": "1.4.8"
+      "notes": "FLEX VIDEO v1.4.9",
+      "published_at": "2026-08-14T02:07:45Z",
+      "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.4.9",
+      "sha256": "ad935c14c3b16bbfc09e0b0cca8854f20d1e912f50d507b1e2ad43d38f4e1dfa",
+      "signature": "WYOQ489jDcVNVhDo13MJFhBy93sOl+Zdw0+Zn81ZMsDgkLyR6s5RPKoP92LzocJaG6Ad+qU1uX4fswLNaIqcCg==",
+      "size": 639704493,
+      "url": "https://github.com/feedose/FlexVideo/releases/download/v1.4.9/update_macOS.zip",
+      "version": "1.4.9"
     },
     "windows-x86_64": {
       "mandatory": false,
