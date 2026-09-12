@@ -1,16 +1,31 @@
 {
-  "generated_at": "2026-09-12T09:24:28Z",
+  "generated_at": "2026-09-12T10:02:41Z",
+  "history": {
+    "macos-arm64": [
+      {
+        "mandatory": false,
+        "notes": "FLEX VIDEO v1.7.7",
+        "published_at": "2026-09-12T09:17:06Z",
+        "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.7.7",
+        "sha256": "ad07dde143123e0e14ad0bbf698efa45ad9aa517817d2ba48c0d75ac28e17030",
+        "signature": "sUTUmeMRK4wdit3hTJEl1nVSMpq62pwjMG195iAka1b8j3VU1s1uLGI0iwo/tdiqyxysFSBSepqbCI4jYDsiAA==",
+        "size": 716039668,
+        "url": "https://github.com/feedose/FlexVideo/releases/download/v1.7.7/update_macOS.zip",
+        "version": "1.7.7"
+      }
+    ]
+  },
   "platforms": {
     "macos-arm64": {
       "mandatory": false,
-      "notes": "FLEX VIDEO v1.7.7",
-      "published_at": "2026-09-12T09:17:06Z",
-      "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.7.7",
-      "sha256": "ad07dde143123e0e14ad0bbf698efa45ad9aa517817d2ba48c0d75ac28e17030",
-      "signature": "sUTUmeMRK4wdit3hTJEl1nVSMpq62pwjMG195iAka1b8j3VU1s1uLGI0iwo/tdiqyxysFSBSepqbCI4jYDsiAA==",
-      "size": 716039668,
-      "url": "https://github.com/feedose/FlexVideo/releases/download/v1.7.7/update_macOS.zip",
-      "version": "1.7.7"
+      "notes": "FLEX VIDEO v1.7.8",
+      "published_at": "2026-09-12T09:55:38Z",
+      "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.7.8",
+      "sha256": "ff0080adefb9c015610c3fe52dcf13fc6e6daac657e81cb4ac5cfe7584f330c0",
+      "signature": "rW5vPMbDWtlWaKOgFwgLQh/CqSSwkH5doFi3UYKvkbo4yCTAfu9M2ZE9nnlJfXim5WwN5z9aRvs9ePSDSKxMDA==",
+      "size": 716060779,
+      "url": "https://github.com/feedose/FlexVideo/releases/download/v1.7.8/update_macOS.zip",
+      "version": "1.7.8"
     },
     "windows-x86_64": {
       "mandatory": false,
