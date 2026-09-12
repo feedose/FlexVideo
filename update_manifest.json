@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:07:41Z",
+  "generated_at": "2026-09-12T11:59:46Z",
   "history": {
     "macos-arm64": [
       {
@@ -12,6 +12,19 @@
         "size": 716039668,
         "url": "https://github.com/feedose/FlexVideo/releases/download/v1.7.7/update_macOS.zip",
         "version": "1.7.7"
+      }
+    ],
+    "windows-x86_64": [
+      {
+        "mandatory": false,
+        "notes": "FLEX VIDEO v1.7.8",
+        "published_at": "2026-09-12T09:55:38Z",
+        "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.7.8",
+        "sha256": "89eca713f48181a9be28dc638cdfbcbc932fb27d2c0e0b70bcfff3f19cbbf5b2",
+        "signature": "tg5Eikh2bySp5hMnxzghIVzjFBYXGG0z6R09nfHpSRR7oGvuOlF+b46cJ1iPgdhdG3wxKo3zD/iaRyp3eTjqDQ==",
+        "size": 787670477,
+        "url": "https://github.com/feedose/FlexVideo/releases/download/v1.7.8/update_Windows.zip",
+        "version": "1.7.8"
       }
     ]
   },
@@ -29,15 +42,15 @@
     },
     "windows-x86_64": {
       "mandatory": false,
-      "notes": "FLEX VIDEO v1.7.8",
-      "published_at": "2026-09-12T09:55:38Z",
-      "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.7.8",
-      "sha256": "89eca713f48181a9be28dc638cdfbcbc932fb27d2c0e0b70bcfff3f19cbbf5b2",
-      "signature": "tg5Eikh2bySp5hMnxzghIVzjFBYXGG0z6R09nfHpSRR7oGvuOlF+b46cJ1iPgdhdG3wxKo3zD/iaRyp3eTjqDQ==",
-      "size": 787670477,
-      "url": "https://github.com/feedose/FlexVideo/releases/download/v1.7.8/update_Windows.zip",
-      "version": "1.7.8"
+      "notes": "FLEX VIDEO v1.7.9",
+      "published_at": "2026-09-12T11:58:08Z",
+      "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.7.9",
+      "sha256": "c97dff208d4611afdc8e56a3d25fd5282991b45dbbd5dffb60c0f1d7b26405d7",
+      "signature": "U+rBd/YB+rwfAlSrn4jq8qBJpk5zXkK/m4pD7WWTqCqG/0UAxrFZllsXkRB5j4OP/QgPRtITqUZMYfWj/j6ODg==",
+      "size": 787693481,
+      "url": "https://github.com/feedose/FlexVideo/releases/download/v1.7.9/update_Windows.zip",
+      "version": "1.7.9"
     }
   },
-  "schema_version": 1
+  "schema_version": 2
 }
