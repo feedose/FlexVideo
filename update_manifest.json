@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T08:00:35Z",
+  "generated_at": "2026-09-13T08:54:43Z",
   "history": {
     "macos-arm64": [
       {
@@ -91,6 +91,17 @@
         "size": 785201923,
         "url": "https://github.com/feedose/FlexVideo/releases/download/v1.8.4/update_Windows.zip",
         "version": "1.8.4"
+      },
+      {
+        "mandatory": false,
+        "notes": "FLEX VIDEO v1.8.5",
+        "published_at": "2026-09-13T07:58:39Z",
+        "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.8.5",
+        "sha256": "8e61b905a17a7619b1da407b3873c6a07fc352070dcb9b25cc9a022af2094eb7",
+        "signature": "Ufy3qHtl0L1CckLDVJ/EpGrwf3HAQmTz5MiO3A5jwNIgIAcFJ/lseGhCh88BJvAxanEoglrCPCrtxPVrWIezDQ==",
+        "size": 786669672,
+        "url": "https://github.com/feedose/FlexVideo/releases/download/v1.8.5/update_Windows.zip",
+        "version": "1.8.5"
       }
     ]
   },
@@ -108,14 +119,14 @@
     },
     "windows-x86_64": {
       "mandatory": false,
-      "notes": "FLEX VIDEO v1.8.5",
-      "published_at": "2026-09-13T07:58:39Z",
-      "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.8.5",
-      "sha256": "8e61b905a17a7619b1da407b3873c6a07fc352070dcb9b25cc9a022af2094eb7",
-      "signature": "Ufy3qHtl0L1CckLDVJ/EpGrwf3HAQmTz5MiO3A5jwNIgIAcFJ/lseGhCh88BJvAxanEoglrCPCrtxPVrWIezDQ==",
-      "size": 786669672,
-      "url": "https://github.com/feedose/FlexVideo/releases/download/v1.8.5/update_Windows.zip",
-      "version": "1.8.5"
+      "notes": "FLEX VIDEO v1.8.6",
+      "published_at": "2026-09-13T08:47:56Z",
+      "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.8.6",
+      "sha256": "87d5b3c8c598e3fe20d9a33709519be388efa351be941196530220fce4e24c37",
+      "signature": "/lDlE86PJpQgcP/XKNsUSaoCzFFHqqvPXq5n6sR4jIla2LSRuzI2SXbVHmGEnlv+xyNNBSUUuiy6PZ0VJSdnDQ==",
+      "size": 786672382,
+      "url": "https://github.com/feedose/FlexVideo/releases/download/v1.8.6/update_Windows.zip",
+      "version": "1.8.6"
     }
   },
   "schema_version": 1
