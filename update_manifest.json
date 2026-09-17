@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T04:09:55Z",
+  "generated_at": "2026-09-17T23:58:41Z",
   "history": {
     "macos-arm64": [
       {
@@ -12,6 +12,17 @@
         "size": 716039668,
         "url": "https://github.com/feedose/FlexVideo/releases/download/v1.7.7/update_macOS.zip",
         "version": "1.7.7"
+      },
+      {
+        "mandatory": false,
+        "notes": "FLEX VIDEO v1.7.8",
+        "published_at": "2026-09-12T09:55:38Z",
+        "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.7.8",
+        "sha256": "ff0080adefb9c015610c3fe52dcf13fc6e6daac657e81cb4ac5cfe7584f330c0",
+        "signature": "rW5vPMbDWtlWaKOgFwgLQh/CqSSwkH5doFi3UYKvkbo4yCTAfu9M2ZE9nnlJfXim5WwN5z9aRvs9ePSDSKxMDA==",
+        "size": 716060779,
+        "url": "https://github.com/feedose/FlexVideo/releases/download/v1.7.8/update_macOS.zip",
+        "version": "1.7.8"
       }
     ],
     "windows-x86_64": [
@@ -196,14 +207,14 @@
   "platforms": {
     "macos-arm64": {
       "mandatory": false,
-      "notes": "FLEX VIDEO v1.7.8",
-      "published_at": "2026-09-12T09:55:38Z",
-      "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.7.8",
-      "sha256": "ff0080adefb9c015610c3fe52dcf13fc6e6daac657e81cb4ac5cfe7584f330c0",
-      "signature": "rW5vPMbDWtlWaKOgFwgLQh/CqSSwkH5doFi3UYKvkbo4yCTAfu9M2ZE9nnlJfXim5WwN5z9aRvs9ePSDSKxMDA==",
-      "size": 716060779,
-      "url": "https://github.com/feedose/FlexVideo/releases/download/v1.7.8/update_macOS.zip",
-      "version": "1.7.8"
+      "notes": "FLEX VIDEO v1.9.4",
+      "published_at": "2026-09-16T04:08:20Z",
+      "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.9.4",
+      "sha256": "2447f9dc550cf23cca38d52403919594e765fc125f09771b1503d7d36eb63053",
+      "signature": "sqkdZD4trFDADxsmi0XAMVtOu6ibDfTuY/lQzjWTcqncEvYwA3jyUMf8+wSRzuhh67oxr3l0PVwCxFavalxFCg==",
+      "size": 787333777,
+      "url": "https://github.com/feedose/FlexVideo/releases/download/v1.9.4/update_macOS.zip",
+      "version": "1.9.4"
     },
     "windows-x86_64": {
       "mandatory": false,
