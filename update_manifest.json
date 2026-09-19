@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T17:49:01Z",
+  "generated_at": "2026-09-19T17:01:09Z",
   "history": {
     "macos-arm64": [
       {
@@ -34,6 +34,17 @@
         "size": 787333777,
         "url": "https://github.com/feedose/FlexVideo/releases/download/v1.9.4/update_macOS.zip",
         "version": "1.9.4"
+      },
+      {
+        "mandatory": false,
+        "notes": "FLEX VIDEO v1.9.5",
+        "published_at": "2026-09-17T17:56:10Z",
+        "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.9.5",
+        "sha256": "2447f9dc550cf23cca38d52403919594e765fc125f09771b1503d7d36eb63053",
+        "signature": "qRBAzYVrMXDJz7mpp2FxZX9HcUmS93RI6naWKGRUhHrDd2FD9jOLbnX3SePYBpPdOvZmvJbWWBMrqhNMWxKUBg==",
+        "size": 787333777,
+        "url": "https://github.com/feedose/FlexVideo/releases/download/v1.9.5/update_macOS.zip",
+        "version": "1.9.5"
       }
     ],
     "windows-x86_64": [
@@ -240,14 +251,14 @@
   "platforms": {
     "macos-arm64": {
       "mandatory": false,
-      "notes": "FLEX VIDEO v1.9.5",
-      "published_at": "2026-09-17T17:56:10Z",
-      "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.9.5",
-      "sha256": "2447f9dc550cf23cca38d52403919594e765fc125f09771b1503d7d36eb63053",
-      "signature": "qRBAzYVrMXDJz7mpp2FxZX9HcUmS93RI6naWKGRUhHrDd2FD9jOLbnX3SePYBpPdOvZmvJbWWBMrqhNMWxKUBg==",
-      "size": 787333777,
-      "url": "https://github.com/feedose/FlexVideo/releases/download/v1.9.5/update_macOS.zip",
-      "version": "1.9.5"
+      "notes": "FLEX VIDEO v1.9.6",
+      "published_at": "2026-09-18T17:22:30Z",
+      "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.9.6",
+      "sha256": "ab849324127c36af4aa1e76ea7078946d951f7f1933ca71e7c6c1ef7d739fe0f",
+      "signature": "3uDw8/AdzWvML/f0GB00vz/FXdmjvKmcJUtZ+pCqUshHs+IdeopWmR3MR7IeLEg8XtNF0IEL8PaCOrsyLAWTBw==",
+      "size": 787343715,
+      "url": "https://github.com/feedose/FlexVideo/releases/download/v1.9.6/update_macOS.zip",
+      "version": "1.9.6"
     },
     "windows-x86_64": {
       "mandatory": false,
