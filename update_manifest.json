@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:36:39Z",
+  "generated_at": "2026-10-15T11:50:01Z",
   "history": {
     "macos-arm64": [
       {
@@ -67,6 +67,17 @@
         "size": 784731964,
         "url": "https://github.com/feedose/FlexVideo/releases/download/v1.9.7/update_macOS.zip",
         "version": "1.9.7"
+      },
+      {
+        "mandatory": false,
+        "notes": "FLEX VIDEO v1.9.8",
+        "published_at": "2026-10-06T08:15:53Z",
+        "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.9.8",
+        "sha256": "92163386611560e6f16ab930a302a31c120c30d96b476e4414c0b70c9e602065",
+        "signature": "bPQbazZFoNXjJkZ9tZ12GEfWZlMT2pQesN0RfB81t4ocYKk5Ht7lrE7bpX0nfuTpJ5uVh/0GmC8HPgJPufhiCQ==",
+        "size": 784733128,
+        "url": "https://github.com/feedose/FlexVideo/releases/download/v1.9.8/update_macOS.zip",
+        "version": "1.9.8"
       }
     ],
     "windows-x86_64": [
@@ -372,14 +383,14 @@
   "platforms": {
     "macos-arm64": {
       "mandatory": false,
-      "notes": "FLEX VIDEO v1.9.8",
-      "published_at": "2026-10-06T08:15:53Z",
-      "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v1.9.8",
-      "sha256": "92163386611560e6f16ab930a302a31c120c30d96b476e4414c0b70c9e602065",
-      "signature": "bPQbazZFoNXjJkZ9tZ12GEfWZlMT2pQesN0RfB81t4ocYKk5Ht7lrE7bpX0nfuTpJ5uVh/0GmC8HPgJPufhiCQ==",
-      "size": 784733128,
-      "url": "https://github.com/feedose/FlexVideo/releases/download/v1.9.8/update_macOS.zip",
-      "version": "1.9.8"
+      "notes": "FLEX VIDEO v2.0.4",
+      "published_at": "2026-10-12T02:09:49Z",
+      "release_url": "https://github.com/feedose/FlexVideo/releases/tag/v2.0.4",
+      "sha256": "75f8bbb92a4c37d351d34e6cdd83fdd99cd08020a8c2d943e3fdb55bb6c86028",
+      "signature": "ysglkO0YL/rmRTMXt0MJ90d0M4EKiH+Vs/wi75Lxo/C9Fy/lBKYTx5n0rGd1PK2KWhvYYpFAi5aAYVUA1rpnCw==",
+      "size": 784804854,
+      "url": "https://github.com/feedose/FlexVideo/releases/download/v2.0.4/update_macOS.zip",
+      "version": "2.0.4"
     },
     "windows-x86_64": {
       "mandatory": false,
